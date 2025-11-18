@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+numpy
+scipy
+simpleaudio
+pyttsx3
+Pillow
+customtkinter
+requests
+flask

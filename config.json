@@ -1,0 +1,19 @@
+{
+  "ear_thresh": 0.24,
+  "eye_closed_sec": 2.0,
+  "mar_thresh": 0.6,
+  "thingspeak_key": "",
+  "thingspeak_interval": 10,
+  "thingspeak_mode": "periodic",
+  "alarm_path": "C:\\Users\\umais\\OneDrive\\Desktop\\DRIVE 3\\SK-Madharasi-Glimpse-BGM.wav",
+  "appearance": "dark",
+  "alarm_volume": 1.0,
+  "mute": false,
+  "record": false,
+  "performance": "balanced",
+  "save_profiles": true,
+  "mobile_alert": false,
+  "mobile_endpoint": "http://127.0.0.1:5000/api/alert",
+  "push_mobile": false,
+  "mar_frames": 1
+}

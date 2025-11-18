@@ -1,0 +1,399 @@
+timestamp,event
+2025-11-15 09:02:46,Drowsiness detected
+2025-11-15 09:02:51,Recovered
+2025-11-15 09:02:55,Drowsiness detected
+2025-11-15 09:03:03,Recovered
+2025-11-15 09:03:08,Yawn detected
+2025-11-15 09:03:11,Yawn detected
+2025-11-15 09:27:32,Detector started
+2025-11-15 09:27:32,Status: Running
+2025-11-15 09:27:36,Drowsiness detected
+2025-11-15 09:27:37,DROWSY
+2025-11-15 09:27:42,Recovered from drowsiness
+2025-11-15 09:28:18,Drowsiness detected
+2025-11-15 09:28:19,DROWSY
+2025-11-15 09:28:19,Recovered from drowsiness
+2025-11-15 09:28:22,Drowsiness detected
+2025-11-15 09:28:22,DROWSY
+2025-11-15 09:28:22,Recovered from drowsiness
+2025-11-15 09:28:28,Drowsiness detected
+2025-11-15 09:28:28,DROWSY
+2025-11-15 09:28:30,Recovered from drowsiness
+2025-11-15 09:28:36,Status: Stopped
+2025-11-15 09:28:36,Detector stopped
+2025-11-15 09:28:40,Status: Stopped
+2025-11-15 09:28:40,Detector stopped
+2025-11-15 09:28:41,Status: Stopped
+2025-11-15 09:28:41,Detector stopped
+2025-11-15 09:28:41,Status: Stopped
+2025-11-15 09:28:41,Detector stopped
+2025-11-15 09:28:42,Status: Stopped
+2025-11-15 09:28:42,Detector stopped
+2025-11-15 09:35:23,Detector started
+2025-11-15 09:35:24,Head nod detected
+2025-11-15 09:35:25,Head nod detected
+2025-11-15 09:35:25,Head nod detected
+2025-11-15 09:35:27,Head nod detected
+2025-11-15 09:35:31,Head nod detected
+2025-11-15 09:35:32,Head nod detected
+2025-11-15 09:35:33,Head nod detected
+2025-11-15 09:35:33,Head nod detected
+2025-11-15 09:35:33,Head nod detected
+2025-11-15 09:35:34,Head nod detected
+2025-11-15 09:35:35,Head nod detected
+2025-11-15 09:35:36,Head nod detected
+2025-11-15 09:35:37,Head nod detected
+2025-11-15 09:35:37,Head nod detected
+2025-11-15 09:35:37,Head nod detected
+2025-11-15 09:35:38,Head nod detected
+2025-11-15 09:35:38,Head nod detected
+2025-11-15 09:35:38,Head nod detected
+2025-11-15 09:35:39,Head nod detected
+2025-11-15 09:35:39,Head nod detected
+2025-11-15 09:35:39,Head nod detected
+2025-11-15 09:35:41,Head nod detected
+2025-11-15 09:35:41,Head nod detected
+2025-11-15 09:35:45,Head nod detected
+2025-11-15 09:35:46,Microsleep detected
+2025-11-15 09:35:47,Microsleep detected
+2025-11-15 09:35:49,Head nod detected
+2025-11-15 09:35:50,Head nod detected
+2025-11-15 09:35:50,Head nod detected
+2025-11-15 09:35:51,Head nod detected
+2025-11-15 09:35:51,Head nod detected
+2025-11-15 09:35:51,Head nod detected
+2025-11-15 09:35:51,Head nod detected
+2025-11-15 09:35:52,Head nod detected
+2025-11-15 09:35:53,Microsleep detected
+2025-11-15 09:35:54,Head nod detected
+2025-11-15 09:35:55,Head nod detected
+2025-11-15 09:35:55,Head nod detected
+2025-11-15 09:35:56,Head nod detected
+2025-11-15 09:36:00,Head nod detected
+2025-11-15 09:36:00,Head nod detected
+2025-11-15 09:36:03,Head nod detected
+2025-11-15 09:36:03,Head nod detected
+2025-11-15 09:36:03,Head nod detected
+2025-11-15 09:36:03,Head nod detected
+2025-11-15 09:36:04,Head nod detected
+2025-11-15 09:36:05,Head nod detected
+2025-11-15 09:36:05,Head nod detected
+2025-11-15 09:36:06,Head nod detected
+2025-11-15 09:36:07,Head nod detected
+2025-11-15 09:36:08,Head nod detected
+2025-11-15 09:36:08,Head nod detected
+2025-11-15 09:36:09,Head nod detected
+2025-11-15 09:36:09,Head nod detected
+2025-11-15 09:36:10,Head nod detected
+2025-11-15 09:36:10,Head nod detected
+2025-11-15 09:36:10,Head nod detected
+2025-11-15 09:36:11,Head nod detected
+2025-11-15 09:36:11,Head nod detected
+2025-11-15 09:36:11,Head nod detected
+2025-11-15 09:36:12,Head nod detected
+2025-11-15 09:36:13,Head nod detected
+2025-11-15 09:36:13,Head nod detected
+2025-11-15 09:36:13,Head nod detected
+2025-11-15 09:36:14,Head nod detected
+2025-11-15 09:36:15,Head nod detected
+2025-11-15 09:36:17,Head nod detected
+2025-11-15 09:36:18,Head nod detected
+2025-11-15 09:36:19,Head nod detected
+2025-11-15 09:36:21,Head nod detected
+2025-11-15 09:38:48,Detector started
+2025-11-15 09:39:07,Microsleep detected
+2025-11-15 09:39:09,Drowsiness detected
+2025-11-15 09:39:09,DROWSY
+2025-11-15 09:39:09,Recovered from drowsiness
+2025-11-15 09:39:11,Detector stopped
+2025-11-15 09:39:12,Detector stopped
+2025-11-15 09:39:13,Detector stopped
+2025-11-15 09:39:13,Detector stopped
+2025-11-15 09:39:13,Detector stopped
+2025-11-15 09:39:13,Detector stopped
+2025-11-15 09:39:13,Detector stopped
+2025-11-15 09:39:13,Detector stopped
+2025-11-15 09:39:13,Detector stopped
+2025-11-15 09:39:13,Detector stopped
+2025-11-15 09:39:14,Detector stopped
+2025-11-15 09:39:14,Detector stopped
+2025-11-15 09:39:14,Detector stopped
+2025-11-15 09:39:14,Detector stopped
+2025-11-15 09:39:14,Detector stopped
+2025-11-15 09:39:14,Detector stopped
+2025-11-15 09:39:14,Detector stopped
+2025-11-15 09:39:15,Detector stopped
+2025-11-15 09:39:15,Detector stopped
+2025-11-15 09:39:15,Detector stopped
+2025-11-15 09:39:15,Detector stopped
+2025-11-15 09:39:16,Detector stopped
+2025-11-15 09:39:16,Detector stopped
+2025-11-15 09:39:16,Detector stopped
+2025-11-15 09:39:16,Detector stopped
+2025-11-15 09:39:16,Detector stopped
+2025-11-15 09:39:16,Detector stopped
+2025-11-15 09:39:16,Detector stopped
+2025-11-15 09:39:16,Detector stopped
+2025-11-15 09:39:17,Detector stopped
+2025-11-15 09:39:17,Detector stopped
+2025-11-15 09:39:17,Detector stopped
+2025-11-15 09:39:17,Detector stopped
+2025-11-15 09:44:06,Detection started
+2025-11-15 09:44:12,Drowsiness detected
+2025-11-15 09:44:12,DROWSY
+2025-11-15 09:44:22,Recovered from drowsiness
+2025-11-15 09:44:22,Recovered
+2025-11-15 09:44:24,Yawn detected
+2025-11-15 09:44:24,YAWN
+2025-11-15 09:44:25,Yawn detected
+2025-11-15 09:44:25,YAWN
+2025-11-15 09:44:26,Yawn detected
+2025-11-15 09:44:26,YAWN
+2025-11-15 09:44:40,Drowsiness detected
+2025-11-15 09:44:40,DROWSY
+2025-11-15 09:44:42,Recovered from drowsiness
+2025-11-15 09:44:42,Recovered
+2025-11-15 09:57:32,UI initialized
+2025-11-15 09:57:47,Detector started
+2025-11-15 09:58:10,Drowsiness detected
+2025-11-15 09:58:10,DROWSY
+2025-11-15 09:58:10,Recovered from drowsiness
+2025-11-15 09:58:13,Recovered
+2025-11-15 09:58:30,Drowsiness detected
+2025-11-15 09:58:30,DROWSY
+2025-11-15 09:58:31,Recovered from drowsiness
+2025-11-15 09:58:32,Recovered
+2025-11-15 09:58:36,Detector stopped
+2025-11-15 09:58:41,Detector stopped
+2025-11-15 10:03:48,Ultra UI ready
+2025-11-15 10:03:55,Detector started on camera 0
+2025-11-15 10:04:08,Drowsiness detected
+2025-11-15 10:04:08,DROWSY
+2025-11-15 10:04:10,Recovered from drowsiness
+2025-11-15 10:04:12,Recovered
+2025-11-15 11:20:33,Camera started index 0
+2025-11-15 11:20:39,Drowsiness detected
+2025-11-15 11:20:39,DROWSY
+2025-11-15 11:20:41,Recovered
+2025-11-15 11:20:43,Recovered
+2025-11-15 11:20:49,Yawn detected
+2025-11-15 11:20:49,YAWN
+2025-11-15 11:20:56,Drowsiness detected
+2025-11-15 11:20:56,DROWSY
+2025-11-15 11:20:56,Recovered
+2025-11-15 11:20:57,Recovered
+2025-11-15 11:21:00,Drowsiness detected
+2025-11-15 11:21:00,DROWSY
+2025-11-15 11:21:10,Recovered
+2025-11-15 11:21:11,Recovered
+2025-11-15 11:21:12,Yawn detected
+2025-11-15 11:21:13,YAWN
+2025-11-15 11:21:19,Drowsiness detected
+2025-11-15 11:21:19,DROWSY
+2025-11-15 11:21:25,Recovered
+2025-11-15 11:21:25,Recovered
+2025-11-15 11:21:30,Stopped
+2025-11-15 21:44:10,Detector started on camera 0
+2025-11-15 21:44:31,Drowsiness detected
+2025-11-15 21:44:31,DROWSY
+2025-11-15 21:44:32,Recovered from drowsiness
+2025-11-15 21:44:34,Recovered
+2025-11-15 21:44:40,Drowsiness detected
+2025-11-15 21:44:40,DROWSY
+2025-11-15 21:44:46,Recovered from drowsiness
+2025-11-15 21:44:46,Recovered
+2025-11-15 21:44:48,Yawn detected
+2025-11-15 21:44:48,YAWN
+2025-11-15 22:00:26,Detector started on camera 0
+2025-11-15 22:00:34,Drowsiness detected
+2025-11-15 22:00:35,DROWSY
+2025-11-15 22:00:45,Recovered from drowsiness
+2025-11-15 22:00:47,Recovered
+2025-11-15 22:00:50,Yawn detected
+2025-11-15 22:00:50,YAWN
+2025-11-15 22:00:56,Drowsiness detected
+2025-11-15 22:00:56,DROWSY
+2025-11-15 22:00:58,Recovered from drowsiness
+2025-11-15 22:00:59,Recovered
+2025-11-15 22:01:01,Drowsiness detected
+2025-11-15 22:01:01,DROWSY
+2025-11-15 22:01:01,Recovered from drowsiness
+2025-11-15 22:01:02,Recovered
+2025-11-15 22:05:57,DMS ULTRA (Cyberpunk) initialized
+2025-11-15 22:06:13,Detection started (camera 0)
+2025-11-15 22:06:16,Yawn detected
+2025-11-15 22:06:17,YAWN
+2025-11-15 22:06:30,Drowsiness detected
+2025-11-15 22:06:31,DROWSY
+2025-11-15 22:06:40,Recovered from drowsiness
+2025-11-15 22:06:41,Recovered
+2025-11-15 22:06:44,Drowsiness detected
+2025-11-15 22:06:44,DROWSY
+2025-11-15 22:06:44,Recovered from drowsiness
+2025-11-15 22:06:45,Recovered
+2025-11-15 22:06:58,Theme toggled to dark
+2025-11-15 22:07:00,Theme toggled to dark
+2025-11-15 22:07:01,Theme toggled to dark
+2025-11-15 22:07:01,Theme toggled to dark
+2025-11-15 22:07:01,Theme toggled to dark
+2025-11-15 22:07:01,Theme toggled to dark
+2025-11-15 22:07:02,Theme toggled to dark
+2025-11-15 22:07:02,Theme toggled to dark
+2025-11-15 22:07:02,Theme toggled to dark
+2025-11-15 22:07:02,Theme toggled to dark
+2025-11-15 22:07:02,Theme toggled to dark
+2025-11-15 22:07:03,Theme toggled to dark
+2025-11-15 22:07:03,Theme toggled to dark
+2025-11-15 22:07:04,Theme toggled to dark
+2025-11-15 22:07:04,Theme toggled to dark
+2025-11-15 22:07:04,Theme toggled to dark
+2025-11-15 22:07:04,Theme toggled to dark
+2025-11-15 22:07:04,Theme toggled to dark
+2025-11-15 22:07:04,Theme toggled to dark
+2025-11-15 22:07:04,Theme toggled to dark
+2025-11-15 22:12:13,DMS ULTRA Advanced initialized
+2025-11-15 22:12:23,Started detector on camera 0
+2025-11-15 22:12:27,Yawn detected
+2025-11-15 22:12:27,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251115_221227_yawn.jpg
+2025-11-15 22:12:27,YAWN
+2025-11-15 22:12:29,Drowsiness detected
+2025-11-15 22:12:29,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251115_221229_drowsy.jpg
+2025-11-15 22:12:29,DROWSY
+2025-11-15 22:12:32,Recovered from drowsiness
+2025-11-15 22:12:32,Recovered
+2025-11-15 22:12:35,Drowsiness detected
+2025-11-15 22:12:35,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251115_221235_drowsy.jpg
+2025-11-15 22:12:35,DROWSY
+2025-11-15 22:12:42,Recovered from drowsiness
+2025-11-15 22:12:42,Recovered
+2025-11-15 22:12:46,Yawn detected
+2025-11-15 22:12:46,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251115_221246_yawn.jpg
+2025-11-15 22:12:47,YAWN
+2025-11-15 22:12:52,Drowsiness detected
+2025-11-15 22:12:52,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251115_221252_drowsy.jpg
+2025-11-15 22:12:52,DROWSY
+2025-11-15 22:12:53,Yawn detected
+2025-11-15 22:12:53,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251115_221253_yawn.jpg
+2025-11-15 22:12:53,YAWN
+2025-11-15 22:12:58,Yawn detected
+2025-11-15 22:12:58,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251115_221258_yawn.jpg
+2025-11-15 22:12:58,YAWN
+2025-11-15 22:13:00,Recovered from drowsiness
+2025-11-15 22:13:00,Recovered
+2025-11-15 22:13:05,Yawn detected
+2025-11-15 22:13:05,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251115_221305_yawn.jpg
+2025-11-15 22:13:05,YAWN
+2025-11-15 22:13:10,Theme changed to dark
+2025-11-15 22:13:11,Theme changed to dark
+2025-11-15 22:13:11,Theme changed to dark
+2025-11-16 18:30:58,DMS ULTRA Advanced initialized
+2025-11-16 18:31:08,Started detector on camera 0
+2025-11-16 18:31:18,Drowsiness detected
+2025-11-16 18:31:18,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251116_183118_drowsy.jpg
+2025-11-16 18:31:18,DROWSY
+2025-11-16 18:31:18,Recovered from drowsiness
+2025-11-16 18:31:21,Recovered
+2025-11-16 18:31:25,Drowsiness detected
+2025-11-16 18:31:25,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251116_183125_drowsy.jpg
+2025-11-16 18:31:26,DROWSY
+2025-11-16 18:31:27,Recovered from drowsiness
+2025-11-16 18:31:27,Recovered
+2025-11-16 18:31:30,Yawn detected
+2025-11-16 18:31:30,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251116_183130_yawn.jpg
+2025-11-16 18:31:30,YAWN
+2025-11-16 18:31:30,Yawn detected
+2025-11-16 18:31:30,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251116_183130_yawn.jpg
+2025-11-16 18:31:31,YAWN
+2025-11-16 18:31:40,Drowsiness detected
+2025-11-16 18:31:40,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251116_183140_drowsy.jpg
+2025-11-16 18:31:40,DROWSY
+2025-11-16 18:31:45,Recovered from drowsiness
+2025-11-16 18:31:46,Recovered
+2025-11-16 18:31:53,Drowsiness detected
+2025-11-16 18:31:53,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251116_183153_drowsy.jpg
+2025-11-16 18:31:54,DROWSY
+2025-11-16 18:32:03,Recovered from drowsiness
+2025-11-16 18:32:04,Recovered
+2025-11-16 18:32:11,Drowsiness detected
+2025-11-16 18:32:11,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251116_183211_drowsy.jpg
+2025-11-16 18:32:12,DROWSY
+2025-11-16 18:32:12,Recovered from drowsiness
+2025-11-16 18:32:12,Recovered
+2025-11-16 18:32:16,Yawn detected
+2025-11-16 18:32:16,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251116_183216_yawn.jpg
+2025-11-16 18:32:17,YAWN
+2025-11-16 18:32:37,Yawn detected
+2025-11-16 18:32:37,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251116_183237_yawn.jpg
+2025-11-16 18:32:38,YAWN
+2025-11-16 18:32:55,Yawn detected
+2025-11-16 18:32:55,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251116_183255_yawn.jpg
+2025-11-16 18:32:55,YAWN
+2025-11-16 18:32:59,Drowsiness detected
+2025-11-16 18:32:59,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251116_183259_drowsy.jpg
+2025-11-16 18:32:59,DROWSY
+2025-11-16 18:33:01,Recovered from drowsiness
+2025-11-16 18:33:01,Recovered
+2025-11-16 18:33:06,Theme changed to dark
+2025-11-16 18:33:08,Theme changed to dark
+2025-11-16 18:33:08,Theme changed to dark
+2025-11-16 18:33:09,Theme changed to dark
+2025-11-16 18:33:09,Theme changed to dark
+2025-11-16 18:33:09,Theme changed to dark
+2025-11-16 18:33:09,Theme changed to dark
+2025-11-16 18:33:09,Theme changed to dark
+2025-11-16 18:33:10,Theme changed to dark
+2025-11-17 09:52:49,DMS ULTRA Advanced initialized
+2025-11-17 09:52:58,Started detector on camera 0
+2025-11-17 09:53:05,Drowsiness detected
+2025-11-17 09:53:05,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251117_095305_drowsy.jpg
+2025-11-17 09:53:06,DROWSY
+2025-11-17 09:53:13,Recovered from drowsiness
+2025-11-17 09:53:16,Recovered
+2025-11-17 09:53:16,Yawn detected
+2025-11-17 09:53:16,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251117_095316_yawn.jpg
+2025-11-17 09:53:16,YAWN
+2025-11-17 09:53:22,Stopped detector
+2025-11-17 09:56:34,DMS ULTRA Advanced initialized
+2025-11-17 10:00:03,DMS ULTRA Advanced initialized
+2025-11-18 18:37:32,DMS ULTRA Advanced initialized
+2025-11-18 18:37:42,Started detector on camera 0
+2025-11-18 18:37:47,Drowsiness detected
+2025-11-18 18:37:47,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251118_183747_drowsy.jpg
+2025-11-18 18:37:47,DROWSY
+2025-11-18 18:37:49,Recovered from drowsiness
+2025-11-18 18:37:51,Recovered
+2025-11-18 18:37:58,Drowsiness detected
+2025-11-18 18:37:58,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251118_183758_drowsy.jpg
+2025-11-18 18:37:58,DROWSY
+2025-11-18 18:38:04,Recovered from drowsiness
+2025-11-18 18:38:04,Recovered
+2025-11-18 18:38:06,Yawn detected
+2025-11-18 18:38:06,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251118_183806_yawn.jpg
+2025-11-18 18:38:06,YAWN
+2025-11-18 18:38:13,Drowsiness detected
+2025-11-18 18:38:13,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251118_183813_drowsy.jpg
+2025-11-18 18:38:13,DROWSY
+2025-11-18 18:38:22,Recovered from drowsiness
+2025-11-18 18:38:22,Recovered
+2025-11-18 18:38:23,Yawn detected
+2025-11-18 18:38:23,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251118_183823_yawn.jpg
+2025-11-18 18:38:24,YAWN
+2025-11-18 18:48:29,DMS ULTRA Advanced (Standalone) initialized
+2025-11-18 18:48:34,Started detector on camera 0
+2025-11-18 18:48:39,Drowsiness detected
+2025-11-18 18:48:39,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251118_184839_drowsy.jpg
+2025-11-18 18:48:39,DROWSY
+2025-11-18 18:48:41,Recovered from drowsiness
+2025-11-18 18:48:43,Recovered
+2025-11-18 18:48:43,Yawn detected
+2025-11-18 18:48:43,Snapshot saved: C:\Users\umais\OneDrive\Desktop\DRIVE 3\snapshots\20251118_184843_yawn.jpg
+2025-11-18 18:48:44,YAWN
+2025-11-18 18:48:47,Theme changed to dark
+2025-11-18 18:48:48,Theme changed to dark
+2025-11-18 18:48:49,Theme changed to dark
+2025-11-18 18:48:50,Theme changed to dark
+2025-11-18 18:48:51,Theme changed to dark
+2025-11-18 18:48:51,Theme changed to dark
+2025-11-18 18:48:51,Theme changed to dark
+2025-11-18 18:48:51,Theme changed to dark
+2025-11-18 18:48:52,Theme changed to dark
