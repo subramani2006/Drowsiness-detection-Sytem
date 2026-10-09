@@ -16,5 +16,5 @@ This project is a real-time driver safety system that detects drowsiness and yaw
     ```
 2.  Run the script:
     ```bash
-    python dms_ultra_advanced.py
+    python (ProjectName)dms_ultra_advanced.py
     ```
